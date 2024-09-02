@@ -2,7 +2,7 @@
 
 This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.
 
-**LIVE DEMO** - [https://saurabhmhatre45.github.io/TIC-TAC-TOE/] OR [(https://tic-tac-toe-saurabh.netlify.app/)]
+**LIVE DEMO** - https://saurabhmhatre45.github.io/TIC-TAC-TOE/ OR https://tic-tac-toe-saurabh.netlify.app/
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
@@ -14,7 +14,7 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 </p>
 
 <p align="center">
-    <img alt="Screenshot" src="./img/preview.gif" width="700px">
+    <img alt="Screenshot" src="./img/ss.png" width="700px">
 </p>
 
 ## Table of Contents
