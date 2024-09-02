@@ -31,7 +31,7 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 
 ### Fonts
 
-[Nunito](https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap) - this font is used for everything because it looks good in titles and the 'X' and 'O' in the game
+['Poppins', sans-serif;](https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap) - this font is used for everything because it looks good in titles and the 'X' and 'O' in the game
 
 
 ### Color Scheme
