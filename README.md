@@ -19,13 +19,11 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 
 ## Table of Contents
 
-- [Design](#design)
-  - [Fonts](#fonts)
-  - [Color Scheme](#color-scheme)
+- [Design](#design) - [Fonts](#fonts)
+- [Color Scheme](#color-scheme)
 - [Built With](#built-with)
 - [Contributing](#contributing)
 - [Creator / Maintainer](#creator--maintainer)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -33,19 +31,15 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 
 ### Fonts
 
-[Nunito](https://fonts.google.com/specimen/Nunito) - this font is used for everything because it looks good in titles and the 'X' and 'O' in the game
+[Nunito](https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap) - this font is used for everything because it looks good in titles and the 'X' and 'O' in the game
 
-<img alt="Font Example Screenshot" src="./img/nunito.png">
 
 ### Color Scheme
 
-- Bdazzled Blue - title and new game button
-- Generic Viridian - Player X text and tile color
+- RED AND WHITE - Restart button
+- RED - Player X text and tile color
 - Blood Red - Player O text and tile color
-- Cultured - website background color
-- Spanish Gray - inactive player, game grid borders, tile hover, and winner's tiles background color
-
-<a href="https://coolors.co/235789-2a7f62-6b0504-f5f5f5-8f8f8f"><img alt="Color Palette Screenshot" src="./img/palette.png"></a>
+- DARK BLUE - website background color
 
 ---
 
@@ -76,24 +70,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### Creator / Maintainer
 
-Annie Wu ([anniedotexe](https://github.com/anniedotexe))
+SAURABH MHATRE  (https://github.com/saurabhmhatre45)
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-  <a href="mailto:anniewu2303@gmail.com"> 
+  <a href="mhatresaurabh2004@gmail.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
 This project was created for educational purposes and for personal and open-source use.
 
-If you like my content or find this code useful, give it a :star: or support me by buying me a coffee :coffee::heart:
+If you like my content or find this code useful,Follow Me
 
-<a href="https://www.buymeacoffee.com/awu2303" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
----
-
-## Acknowledgments
-
-- [CleverProgrammer](https://www.cleverprogrammer.com/) for their [Tic, Tac, Toe Game tutorial](https://www.youtube.com/watch?v=VjjZ2MaX0Ts)
