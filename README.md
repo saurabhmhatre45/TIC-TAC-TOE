@@ -1,3 +1,4 @@
+Made by Om Shinde
 # Simple TIC-TAC-TOE Game
 
 This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.
